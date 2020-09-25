@@ -16,6 +16,7 @@
     * [设置重复任务](web/task/recurring.md)
     * [列表模式管理任务](web/task/managetask1.md)
     * [看板模式管理任务](web/task/managetask2.md)
+    * [多级任务](web/task/nested-task.md)
   * 标签
     * [左侧边栏显示标签](web/tag/enabletag.md)
     * [为任务添加标签](web/tag/addtag.md)
