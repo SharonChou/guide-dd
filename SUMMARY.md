@@ -69,6 +69,7 @@
     * [设置重复任务](android/task/recurring.md)
     * [列表模式管理任务](android/task/managetask1.md)
     * [看板模式管理任务](android/task/managetask2.md)
+    * [多级任务](android/task/nested-task.md)
   * 清单
     * [清单类型](android/list/listcatogory.md)
     * [智能清单](android/list/advancedlist.md)
@@ -126,6 +127,7 @@
     * [设置重复任务](iOS/task/repeattask.md)
     * [列表模式管理任务](iOS/task/managetask1.md)
     * [看板模式管理任务](iOS/task/managetask2.md)
+    * [多级任务](/iOS/task/nested-task.md)
   * 清单
     * [清单类型](iOS/list/listcatogory.md)
     * [智能清单](iOS/list/advancedlist.md)
@@ -183,6 +185,7 @@
     * [设置重复任务](Windows/task/recurring.md)
     * [列表模式管理任务](Windows/task/managetask1.md)
     * [看板模式管理任务](Windows/task/managetask2.md)
+    * [多级任务](Windows/task/nested-task.md)
   * 清单
     * [清单类型](Windows/list/listcatogory.md)
     * [智能清单](Windows/list/advancedlist.md)
@@ -240,6 +243,7 @@
     * [设置重复任务](macOS/task/recurring.md)
     * [列表模式任务管理](macOS/task/managetask1.md)
     * [看板模式管理任务](macOS/task/managetask2.md)
+    * [多级任务](macOS/task/nested-task.md)
   * 清单
     * [清单类型](macOS/list/listcatogory.md)
     * [智能清单](macOS/list/advancedlist.md)
