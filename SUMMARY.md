@@ -127,7 +127,7 @@
     * [设置重复任务](iOS/task/repeattask.md)
     * [列表模式管理任务](iOS/task/managetask1.md)
     * [看板模式管理任务](iOS/task/managetask2.md)
-    * [多级任务](/iOS/task/nested-task.md)
+    * [多级任务](iOS/task/nested-task.md)
   * 清单
     * [清单类型](iOS/list/listcatogory.md)
     * [智能清单](iOS/list/advancedlist.md)
@@ -210,6 +210,7 @@
     * [最小化专注计时](Windows/pomotimer/minimize.md)
     * [预计时长](Windows/pomotimer/expect.md)
     * [专注计时统计](Windows/pomotimer/statistics.md)
+    * [最小化专注计时](/Windows/pomotimer/minimize.md)
   * 习惯打卡
     * [添加习惯打卡](Windows/habit/start.md)
     * [编辑习惯打卡](Windows/habit/edithabit.md)
