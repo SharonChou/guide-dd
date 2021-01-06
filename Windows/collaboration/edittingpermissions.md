@@ -4,10 +4,10 @@
 
 在侧边栏点击进入共享清单之后，点击清单标题旁边的「成员」图标（或右键点击侧边栏该清单然后点击「共享协作」）即可查看到该清单下所有成员。点击成员右边的「编辑」按钮即可对该成员进行编辑权限设置。可设置清单成员的可编辑、可评论和只读等权限。
 
-![88fa4346985379a8c2e350e4](/Users/aechchow/Documents/GitHub/guide-dd/images/pc/80.png)
+![images35](../../images/pc/80.png)
 
-![ecb34d449106444af0269f78](/Users/aechchow/Documents/GitHub/guide-dd/images/pc/81.png)
+![images35](../../images/pc/81.png)
 
 共享清单的所有者还能点击「转让清单」图标来选择一位成员转交清单所有权。
 
-![4c214469aef8e39b9935b61b](/Users/aechchow/Documents/GitHub/guide-dd/images/pc/82.png)
+![images35](../../images/pc/82.png)

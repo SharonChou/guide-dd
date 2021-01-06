@@ -89,6 +89,8 @@
     * [评论任务](iOS/collaboration/comment.md)
     * [指派/分派任务](iOS/collaboration/assigning.md)
     * [勿扰模式](iOS/collaboration/DNDmode.md)
+    * [编辑权限](iOS/collaboration/edittingpermission.md)
+    * [通知权限](iOS/collaboration/notifications.md)
   * 日历
     * [日历管理](iOS/calendar/managecalendar.md)
     * [订阅日历](iOS/calendar/subscription.md)
@@ -108,7 +110,6 @@
     * [打卡设置](iOS/habit/settinghabit.md)
   * 摘要
     * [摘要定义](iOS/summary/iossummary.md)
-    * [设置摘要](iOS/summary/settingsummary.md)
   * 笔记
     * [笔记](iOS/note/note.md)
   * 玩转微信公众号
@@ -122,6 +123,70 @@
     * [配置桌面小部件](iOS/widget/iOS14widget.md)
   * 链接转化标题
     * [链接转化标题](iOS/linkparsing/linkparsing.md)
+* [Android 应用](android.md)
+  * 常见问题
+    * [关于滴答清单](android/introduce.md)
+  * 账号&安全
+    * [注册和登陆](android/account&safe/login.md)
+    * [账户设置](android/account&safe/accountsettings.md)
+    * [账号数据迁移](android/account&safe/data.md)
+  * 设置
+    * [基础设置](android/settings/primarysettings.md)
+    * [更多设置](android/settings/avancedsettings.md)
+  * 创建与管理任务
+    * [创建任务](android/task/starttask.md)
+    * [设置提醒](android/task/reminder.md)
+    * [设置重复任务](android/task/recurring.md)
+    * [列表模式管理任务](android/task/managetask1.md)
+    * [看板模式管理任务](android/task/managetask2.md)
+    * [多级任务](android/task/nested-task.md)
+  * 清单
+    * [清单类型](android/list/listcatogory.md)
+    * [智能清单](android/list/advancedlist.md)
+    * [创建于管理清单](android/list/managelist.md)
+  * 标签
+    * [在左侧边栏显示标签](android/tag/enabletag.md)
+    * [为任务添加标签](android/tag/addtagtotask.md)
+    * [管理标签](android/tag/manage.md)
+    * [标签排序](android/tag/sort.md)
+  * 共享协作
+    * [共享清单](android/collaboration/sharedlist.md)
+    * [评论任务](android/collaboration/comment.md)
+    * [指派、分派任务](android/collaboration/assigning.md)
+    * [勿扰模式](android/collaboration/DNDmode.md)
+    * [编辑权限](android/collaboration/edittingpermissions.md)
+    * [通知权限](android/collaboration/notifitication.md)
+  * 日历
+    * [日历管理](android/calendar/managecalendar.md)
+    * [订阅日历](android/calendar/subscription.md)
+    * [分享日历](android/calendar/share.md)
+  * 专注计时
+    * [设置专注计时](android/pomotimer/settingpomotimer.md)
+    * [开启专注计时](android/pomotimer/start.md)
+    * [白噪音](android/pomotimer/music.md)
+    * [最小化专注计时](android/pomotimer/minimize.md)
+    * [预计时长](android/pomotimer/expect.md)
+    * [专注计时统计](android/pomotimer/statistics.md)
+  * 习惯打卡
+    * [添加习惯打卡](android/habit/start.md)
+    * [编辑习惯打卡](android/habit/edithabit.md)
+    * [打卡归档](android/habit/habitfile.md)
+    * [打卡统计](android/habit/statistics.md)
+    * [打卡设置](android/habit/settinghabit.md)
+  * 摘要
+    * [摘要定义](android/summary/androidsummary.md)
+  * 笔记
+    * [添加笔记](android/note/note.md)
+  * 玩转微信公众号
+    * [绑定微信公众号](android/wechat/bind.md)
+    * [创建任务](android/wechat/starttask.md)
+    * [查看任务](android/wechat/checktask.md)
+    * [配置公众号](android/wechat/setting.md)
+    * [解绑微信](android/wechat/unbind.md)
+  * 桌面小部件
+    * [配置桌面小部件](android/widget/settingwidget.md)
+  * 链接转化标题
+    * [链接转化标题](/android/linkparsing/linkparsing.md)
 * [Windows 客户端](Windows.md)
   * 关于滴答清单
     * [常见问题](Windows/introduce/question.md)
@@ -154,6 +219,8 @@
     * [评论任务](Windows/collaboration/comment.md)
     * [指派/分配任务](Windows/collaboration/assigning.md)
     * [勿扰模式](Windows/collaboration/DNDmode.md)
+    * [编辑权限](Windows/collaboration/edittingpermissions.md)
+    * [通知权限](Windows/collaboration/notifications.md)
   * 日历
     * [日历管理](Windows/calendar/managecalendar.md)
     * [订阅日历](Windows/calendar/subscription.md)
@@ -246,7 +313,7 @@
     * [配置微信公众号](macOS/wechat/setting.md)
     * [解绑微信号](macOS/wechat/unbind.md)
   * 桌面小部件
-    * [设置小组件](/macOS/widget/macOS Big Sur Widget.md)
+    * [设置小组件](macOS/widget/macOS Big Sur Widget.md)
   * 自动转化链接标题
     * [自动转化链接标题](macOS/linkparsing/linkparsing-mac.md)
 * [智能日期识别规则示例](smartdateparsingrules.md)

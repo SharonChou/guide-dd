@@ -4,14 +4,14 @@
 
 「滴答清单」支持给共享清单设置通知权限。在「设置」 - 「声音、提醒与通知」 - 「共享清单的默认通知」中可以开启「完成/取消完成了任务」、「添加任务/笔记」、「删除/移走了任务/笔记」等权限，开启之后权限会作用于所有共享清单。
 
-![IMG_9241DAF7BFE2-1](/Users/aechchow/Documents/GitHub/guide-dd/images/ios/115.png)
+![images35](../../images/ios/115.png)
 
 开启之后其他成员在所有共享清单中进上述操作时，您可以在 app 的「通知中心」 - 「动态」内查看到通知内容。
 
-![IMG_ED0DD80EF30E-1](/Users/aechchow/Documents/GitHub/guide-dd/images/ios/116.png)
+![images35](../../images/ios/116.png)
 
-![IMG_AD8C794F490B-1](/Users/aechchow/Documents/GitHub/guide-dd/images/ios/117.png)
+![images35](../../images/ios/117.png)
 
 您也可以单独给一个共享清单设置通知权限。在侧边栏左滑该共享清单之后点击编辑按钮进入清单编辑界面 - 点击「通知」就可以单独给当前清单开启「完成/取消完成了任务」、「添加了任务/笔记」、「删除/移走了任务/笔记」等通知权限。
 
-![IMG_47F2C305165A-1](/Users/aechchow/Documents/GitHub/guide-dd/images/ios/118.png)
+![images35](../../images/ios/118.png)
