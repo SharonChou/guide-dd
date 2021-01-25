@@ -32,6 +32,7 @@
     * [日历管理](web/calendar/managecalendar.md)
     * [订阅日历](web/calendar/subscription.md)
     * [分享日历](web/calendar/share.md)
+    * [修改单个周期](web/calendar/recurrence.md)
   * 专注计时
     * [设置番茄专注](web/pomotimer/settingpomotimer.md)
     * [开始专注](web/pomotimer/start.md)
@@ -95,6 +96,7 @@
     * [日历管理](iOS/calendar/managecalendar.md)
     * [订阅日历](iOS/calendar/subscription.md)
     * [分享日历](iOS/calendar/share.md)
+    * [修改单个周期](iOS/calendar/recurrence.md)
   * 专注计时
     * [设置专注计时](iOS/pomotimer/settingpomotimer.md)
     * [开始专注计时](iOS/pomotimer/start.md)
@@ -108,10 +110,11 @@
     * [打卡归档](iOS/habit/habitfile.md)
     * [打卡统计](iOS/habit/statistics.md)
     * [打卡设置](iOS/habit/settinghabit.md)
-  * 摘要
-    * [摘要定义](iOS/summary/iossummary.md)
   * 笔记
     * [笔记](iOS/note/note.md)
+  * 移动端摘要
+    * [摘要定义](iOS/summary/iossummary.md)
+    * [移动端摘要](iOS/summary/settingsummary.md)
   * 玩转微信公众号
     * [绑定微信公众号](iOS/wechat/bind.md)
     * [创建任务](iOS/wechat/starttask.md)
@@ -160,6 +163,7 @@
     * [日历管理](android/calendar/managecalendar.md)
     * [订阅日历](android/calendar/subscription.md)
     * [分享日历](android/calendar/share.md)
+    * [修改单个周期](/android/calendar/recurrence.md)
   * 专注计时
     * [设置专注计时](android/pomotimer/settingpomotimer.md)
     * [开启专注计时](android/pomotimer/start.md)
@@ -173,10 +177,11 @@
     * [打卡归档](android/habit/habitfile.md)
     * [打卡统计](android/habit/statistics.md)
     * [打卡设置](android/habit/settinghabit.md)
-  * 摘要
-    * [摘要定义](android/summary/androidsummary.md)
   * 笔记
     * [添加笔记](android/note/note.md)
+  * 移动端摘要
+    * [摘要定义](android/summary/androidsummary.md)
+    * [移动端摘要](android/summary/settingsummary.md)
   * 玩转微信公众号
     * [绑定微信公众号](android/wechat/bind.md)
     * [创建任务](android/wechat/starttask.md)
@@ -186,7 +191,7 @@
   * 桌面小部件
     * [配置桌面小部件](android/widget/settingwidget.md)
   * 链接转化标题
-    * [链接转化标题](/android/linkparsing/linkparsing.md)
+    * [链接转化标题](android/linkparsing/linkparsing.md)
 * [Windows 客户端](Windows.md)
   * 关于滴答清单
     * [常见问题](Windows/introduce/question.md)
