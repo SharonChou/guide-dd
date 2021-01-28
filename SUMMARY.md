@@ -146,7 +146,7 @@
   * 清单
     * [清单类型](android/list/listcatogory.md)
     * [智能清单](android/list/advancedlist.md)
-    * [创建于管理清单](android/list/managelist.md)
+    * [创建与管理清单](android/list/managelist.md)
   * 标签
     * [在左侧边栏显示标签](android/tag/enabletag.md)
     * [为任务添加标签](android/tag/addtagtotask.md)
@@ -163,7 +163,7 @@
     * [日历管理](android/calendar/managecalendar.md)
     * [订阅日历](android/calendar/subscription.md)
     * [分享日历](android/calendar/share.md)
-    * [修改单个周期](/android/calendar/recurrence.md)
+    * [修改单个周期](android/calendar/recurrence.md)
   * 专注计时
     * [设置专注计时](android/pomotimer/settingpomotimer.md)
     * [开启专注计时](android/pomotimer/start.md)
