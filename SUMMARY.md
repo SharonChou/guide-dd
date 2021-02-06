@@ -17,6 +17,10 @@
     * [列表模式管理任务](web/task/managetask1.md)
     * [看板模式管理任务](web/task/managetask2.md)
     * [多级任务](web/task/nested-task.md)
+  * 清单
+    * [清单类型](web/list/listcatogory.md)
+    * [智能清单](web/list/advancdlist.md)
+    * [管理与创建清单](/web/list/managelist.md)
   * 标签
     * [左侧边栏显示标签](web/tag/enabletag.md)
     * [为任务添加标签](web/tag/addtag.md)
@@ -321,5 +325,7 @@
     * [设置小组件](macOS/widget/macOS Big Sur Widget.md)
   * 自动转化链接标题
     * [自动转化链接标题](macOS/linkparsing/linkparsing-mac.md)
+* [成就值与统计](achievement_score.md)
+* [勋章](badges.md)
 * [智能日期识别规则示例](smartdateparsingrules.md)
 * [自定义智能清单特殊规则](customsmartlistrules.md)
