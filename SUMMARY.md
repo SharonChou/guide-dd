@@ -20,7 +20,7 @@
   * 清单
     * [清单类型](web/list/listcatogory.md)
     * [智能清单](web/list/advancdlist.md)
-    * [管理与创建清单](/web/list/managelist.md)
+    * [管理与创建清单](web/list/managelist.md)
   * 标签
     * [左侧边栏显示标签](web/tag/enabletag.md)
     * [为任务添加标签](web/tag/addtag.md)
@@ -60,8 +60,6 @@
     * [查看任务](web/wechat/checktask.md)
     * [配置公众号](web/wechat/setting.md)
     * [解绑微信号](web/wechat/unbind.md)
-  * 桌面小部件
-    * [配置桌面小部件](web/widget/settingwidget.md)
   * 自动转化链接标题
     * [自动转化链接标题](web/linkparsing/link parsing.md)
 * [iOS 应用](iOS.md)
@@ -115,7 +113,7 @@
     * [打卡统计](iOS/habit/statistics.md)
     * [打卡设置](iOS/habit/settinghabit.md)
   * 笔记
-    * [笔记](iOS/note/note.md)
+    * [笔记](/iOS/note/note.md)
   * 移动端摘要
     * [摘要定义](iOS/summary/iossummary.md)
     * [移动端摘要](iOS/summary/settingsummary.md)
